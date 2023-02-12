@@ -28,5 +28,6 @@ public class Main {
         Stream.iterate(2,i -> i+2).limit(20).forEach(System.out::println);
     }
 }
+//
 
 
